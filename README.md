@@ -7,6 +7,7 @@ This project explores how rising expenditures by the U.S. House of Representativ
 <h2>Tools & Technologies:</h2>
 
 - Python (Pandas, Altair, Matplotlib)
+- Jupyter Notebook
 - US House Dispersement Reports
 - US Census Beareu API
 - Data cleaning, trend analysis, visualization
